@@ -1,0 +1,11 @@
+﻿data_comentario,canal_atendimento,texto_feedback,produto_citado,nota_satisfacao
+2023-10-01,App,"O app trava toda vez que tento gerar o boleto. Muito frustrante! Sou cliente há 5 anos, meu nome é João Silva e minha conta é 12345-6.",App / Boleto,1
+2023-10-02,Chat,Atendimento excelente! A atendente resolveu meu problema com o cartão bloqueado em 2 minutos.,Cartão de Crédito,5
+2023-10-03,App,O Pix está demorando muito para cair na conta do meu fornecedor. Já faz 20 minutos e nada.,Pix,2
+2023-10-04,Chat,"Não consigo falar com um humano, só fico falando com o robô que não entende nada. Quero cancelar meu cartão!",Atendimento / Chat,1
+2023-10-05,App,"Adorei a nova interface do app, ficou muito mais limpa e fácil de achar o extrato. Parabéns!",App,5
+2023-10-06,App,"Tentei fazer um Pix de R$ 5.000 e deu erro de limite, mas no internet banking funciona. Por que essa diferença?",Pix,2
+2023-10-07,Chat,Meu cartão foi clonado e o atendimento foi super rápido para bloquear e emitir a 2ª via. Me senti seguro.,Cartão de Crédito,5
+2023-10-08,App,A função de dividir a fatura do cartão não está aparecendo para mim. Alguém pode ajudar? Meu CPF é 123.456.789-00.,Cartão de Crédito,3
+2023-10-09,Chat,Demorei 45 minutos só para ser atendido no chat. Inaceitável para um banco desse porte.,Atendimento / Chat,1
+2023-10-10,App,"O reconhecimento facial para login está falhando muito, tenho que digitar a senha toda hora.",App / Segurança,2
